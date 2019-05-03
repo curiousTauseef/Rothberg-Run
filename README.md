@@ -5,6 +5,7 @@ Rothberg Run! is a keyboard-controlling temple-run-like game written in C++.
 **[A]**: turn left &emsp; **[D]**: turn right  
 The final **score** is calculated based on the **mileage** and **coins** collected. Game ends when player is out of road and scores gets
 deducted everytime player encounters the **fence**.  The player's history record will be stored in a .txt file and displayed in the leaderboard in the end.  
+More implementation details can be found [here](https://github.com/ziliHarvey/Rothberg-Run/edit/master/final_presentation.pdf)
 ## Features
   &emsp; &emsp; &emsp; &emsp; &emsp;**Game Start** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Game Over**  
 <img src="https://github.com/rothberg-cmu/rothberg-run/blob/jumpFixed/result/gameStart.png" width=37% height=37%>&nbsp;&emsp;&emsp;
